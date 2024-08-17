@@ -1,0 +1,28 @@
+### Post List 1
+POST http://localhost:8080/api/v1/wishlists
+Content-Type: application/json
+
+{
+
+  "name": "List 1",
+  "description": "My first list"
+}
+
+
+### Post List 2
+POST http://localhost:8080/api/v1/wishlists
+Content-Type: application/json
+
+{
+  "name": "List 2",
+  "description": "My first list"
+}
+
+### Post List 3
+POST http://localhost:8080/api/v1/wishlists
+Content-Type: application/json
+
+{
+  "name": "List 3",
+  "description": "My first list"
+}
